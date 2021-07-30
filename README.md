@@ -1,5 +1,9 @@
 # Welcome to WhatsappWebKit
+----------------------------------------------
 
+This is outdated since whatsapp updated its HTML
+
+------------------------------------------------
 ### *pip install WhatsappWebKit*
 
 This library is the gateway for automation of whatsapp web (especially for students :))
